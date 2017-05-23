@@ -16,6 +16,12 @@
 	- 一开始用自己的逻辑实现,后面看了官网demo,发现思维欠缺, 然后就相当于copy了
 	- 呵呵,总算实现了
 
+## 目录
+- src
+	- App.vue 所有的代码逻辑都在这里
+- static
+	- css 存放todos样式文件
+
 ## Build Setup
 
 ``` bash
